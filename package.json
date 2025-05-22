@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/biological-core-project/",
+    "build": "vite build --base=/119_html-css_ZVyacheslavV/",
     "preview": "vite preview"
   },
   "devDependencies": {
